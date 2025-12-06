@@ -1,1 +1,0 @@
-# arquitecturaPC4
