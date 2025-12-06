@@ -1,5 +1,6 @@
 # Arquitectura Blockchain Medicalchain - Explicación por Capas
 
+<img width="10231" height="1931" alt="pc4Huapaya drawio (1)" src="https://github.com/user-attachments/assets/831ba713-11ab-435b-a334-af52d085e72a" />
 
 ## CAPA 1: Hardware e Infraestructura
 
@@ -342,4 +343,5 @@ Esta arquitectura de 7 capas aborda todos los desafíos estratégicos del caso M
 **Interoperabilidad**: integración HL7 FHIR con EHR legados, APIs públicas para desarrolladores  
 
 La arquitectura posiciona a Medicalchain para competir efectivamente en el mercado de healthcare IT de $390 mil millones, diferenciándose mediante la combinación única de blockchain, IA y seguridad de nivel militar.
+
 
